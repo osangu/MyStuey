@@ -8,6 +8,5 @@ def solution(absolutes, signs):
             answer -= absolutes[i]
 
     return answer
-
 if __name__ == '__main__':
     solution([4, 7, 12],[True, False, True])
