@@ -28,7 +28,12 @@
    + ]
 
 
- + 암달의 법칙 & 존 구스타푸슨 
+ + 암달의 법칙 & 존 구스타푸슨   
+  
+
+ + 분산 처리는 아래 URL 확인
+   + [한국데이터 산업진흥원](https://dataonair.or.kr/db-tech-reference/d-lounge/technical-data/?mod=document&uid=235894)
+   + https://jihyeong-ji99hy99.tistory.com/102
 
 기록해야 할 것들에 있는 것들을 2번 URL을 보시면 더 세세하게 나옵니다. 꼭 보세요!!
 
