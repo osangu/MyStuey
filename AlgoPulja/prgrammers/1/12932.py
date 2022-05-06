@@ -5,3 +5,5 @@ def solution(a):
     return answer
 
 def solution(a): return [int(i) for i in str(a)][::-1]
+
+
