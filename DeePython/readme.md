@@ -1,1 +1,0 @@
-[**MyPy Notion**](https://fword.notion.site/Python-1c6d527bd2b34fa28ac923039331da7e)
