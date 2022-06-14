@@ -46,7 +46,6 @@ Domain Name System의 약자.
 - com, net, kr 같은 도메인들을 관리하는 서버
 ----
 
-
 <img width="50%" height="50%" alt="사진3" src=https://user-images.githubusercontent.com/80697064/172007884-cc0b3621-6a39-4d72-ad8f-ec23e766f37a.png>
 <img width="50%" height="50%" alt="사진2" src="https://user-images.githubusercontent.com/80697064/172007772-e28974ea-d0a3-465f-859f-46b5b3bad5e2.png">
 
